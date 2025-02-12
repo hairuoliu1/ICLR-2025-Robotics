@@ -1,4 +1,4 @@
-# Embodied AI and Robotics Papers (Extended Categories)
+# Robotics Papers
 
 ## Motion Planning
 
